@@ -6,4 +6,4 @@ The script recursively searched the first directory specified for any localizati
 Names are not distinct, i.e. a localization name may occur twice if it is mentioned in more than one place. This is so that you can see the files where the name exists and can gain some context on how it is used.
 
 # Usage
-./localization.sh (angular sources directory) (localization file directory)
+`./localization.sh <Angular sources directory> <localization file directory>`
